@@ -16,5 +16,6 @@ int main(){
     cout<<endl;
     rowno=rowno+1;
     }
+    return 0;
 
 }
